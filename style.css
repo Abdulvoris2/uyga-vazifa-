@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yllov{
+    width: 2200px;
+    height: 1600px;
+    background-color: yellow;
+    margin: 40px auto;
+    padding: 86px 78px 56px 78px;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 400px;
+}
+.blak{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.kichkina{
+    width: 30px;
+    height: 30px;
+    background-color: chartreuse;
+    border: 2px solid black;
+}
+.koko{
+    justify-content: space-between;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+}
+.ko{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.popo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex; 
+}
+.po{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+    gap: 50px; 
+}
+.wowo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.wo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.qoqo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+    gap: 50px;
+}.qo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.roro{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+}
+.ro{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+    flex: block;
+}
+.rara{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: black;
+    display: flex;
+    gap: 50px;
+}
